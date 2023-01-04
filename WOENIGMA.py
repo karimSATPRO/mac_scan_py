@@ -5,7 +5,7 @@ import json,random,sys, time,re
 nickn=""
 nickn=""
 if nickn=="":
-	nickn="🅖🅡🅞🅤🅟🅔 🅦🅞🅔"
+	nickn="https://t.me/iptvfreekyng"
 try:
 	import androidhelper as sl4a
 	ad = sl4a.Android()
@@ -64,12 +64,12 @@ cpm=1
 
 macSayisi=999999999999991# 1#deneme sayisı
 feyzo=("""\33[0m \33[0m\33[1;107m                    \33[0m\33[1;41m                   
-\33[0m \33[31m\33[1;107m    🅖🅡🅞🅤🅟🅔 🅦🅞🅔​        \33[0m\33[1;41m PY  CONFIG        \33[0m
+\33[0m \33[31m\33[1;107m    https://t.me/iptvfreekyng​        \33[0m\33[1;41m PY  CONFIG        \33[0m
 \33[0m \33[0m\33[1;107m                    \33[0m\33[1;41m                   \33[0m
 \33[33m                       
     
 \33[0m \33[0m\33[1;107m                    \33[0m\33[1;41m                   
-\33[0m \33[31m\33[1;107m     🅖🅡🅞🅤🅟🅔 🅦🅞🅔        \33[0m\33[1;41m PY  CONFIG        \33[0m
+\33[0m \33[31m\33[1;107m     https://t.me/iptvfreekyng        \33[0m\33[1;41m PY  CONFIG        \33[0m
 \33[0m \33[0m\33[1;107m                    \33[0m\33[1;41m                   \33[0m\33[0m 
    \33[0;1m""")
 print(feyzo) 
@@ -474,7 +474,7 @@ What is the proxy type in the file you selected?
 		Proxy type= """)
 subprocess.run("cls", shell=True)
 print(feyzo)
-DosyaA="./Hits/" + panel.replace(":","_").replace('/','') +"@🅖🅡🅞🅤🅟🅔 🅦🅞🅔.txt"
+DosyaA="./Hits/" + panel.replace(":","_").replace('/','') +"@https://t.me/iptvfreekyng.txt"
 def yaz(hits):
     dosya=open(DosyaA,'a+', encoding='utf-8') 
     dosya.write(hits)
@@ -825,7 +825,7 @@ for mag in range(16**6):
             total=str(say) 
             cpm=(time.time()-cpm)
             cpm=(round(60/cpm))
-            print ("""\33[0m╭─────\33[0m\33[1;100m \33[1;30;107m 🅖🅡🅞🅤🅟🅔 🅦🅞🅔         \33[0m\33[1;100m \33[0m\33[1;41m\33[1m PRO   \33[0m V.2   
+            print ("""\33[0m╭─────\33[0m\33[1;100m \33[1;30;107m https://t.me/iptvfreekyng         \33[0m\33[1;100m \33[0m\33[1;41m\33[1m PRO   \33[0m V.2   
 ├──  \33[1;36m\33[1mTotal = """+total+""" \33[33m Hit = """ + str(hit)+ """ \33[1;31;40m Cpm = """ +str(cpm)+"""      \33[0m
 ╰────""" +renk+mac+""" \33[1;32;40m""" +panel+""" \33[0m""")
             
@@ -1107,7 +1107,7 @@ for mag in range(16**6):
 				            				kanal= str((i.split('"')[0]).encode('utf-8').decode("unicode-escape")).replace('\/','/')
 				            			except:pass
 				            			kategori=kategori+kanal+" •❖• "
-				            			#🅖🅡🅞🅤🅟🅔 🅦🅞🅔
+				            			#https://t.me/iptvfreekyng
 				            		if '*' in kategori:
 				            			kategori=kategori.split("*")[1]
 				            		kategori=kategori.replace("\/","/")
@@ -1138,7 +1138,7 @@ for mag in range(16**6):
 				            				kanal= str((i.split('"')[0]).encode('utf-8').decode("unicode-escape")).replace('\/','/')
 				            			except:pass
 				            			kategoriv=kategoriv+kanal+" •◈• "
-				            			#🅖🅡🅞🅤🅟🅔 🅦🅞🅔
+				            			#https://t.me/iptvfreekyng
 				            		if '*' in kategoriv:
 				            			kategoriv=kategoriv.split("*")[1]
 				            		kategoriv=kategoriv.replace("\/","/")
@@ -1168,7 +1168,7 @@ for mag in range(16**6):
 				            				kanal= str((i.split('"')[0]).encode('utf-8').decode("unicode-escape")).replace('\/','/')
 				            			except:pass
 				            			kategoris=kategoris+kanal+" •⛯• ️ "
-				            			#🅖🅡🅞🅤🅟🅔 🅦🅞🅔
+				            			#https://t.me/iptvfreekyng
 				            		if '*' in kategoris:
 				            			kategoris=kategoris.split("*")[1]
 				            		kategoris=kategoris.replace('\/','')
@@ -1526,13 +1526,13 @@ for mag in range(16**6):
 #▮➥ᏆNᎢᎬᎡNᎬᎢ ᏢᎡᏫᏙᏆᎠᎬᎡ⇶ """+str(org1)+"""
 #▮➥ᎪᏚN⇶ """+str(asn1)+"""|​ᏟᎪᏢᏆᎢᎪᏞ⇶ """+str(country_capital)+"""​ 
 #▮➥ᏟᏆᎢᎽ⇶ """+str(city)+"""​|ᏢᏫᏚᎢᎪᏞᏟᏫᎠᎬ⇶ """+str(postal)+""" |ᏞᎪNᏀᏌᎪᏀᎬᏚ⇶ """+str(languages)+"""
-   # ✰⇘ 🅖🅡🅞🅤🅟🅔 🅦🅞🅔 ⇙✰""")
+   # ✰⇘ https://t.me/iptvfreekyng ⇙✰""")
 			            		
 			# » » »
 			            	imza1=("""
 """+nickn+"""
-╔✩✩ 🅖🅡🅞🅤🅟🅔 🅦🅞🅔 ✩✩╗
-    ✰⇘🅖🅡🅞🅤🅟🅔 🅦🅞🅔⇙✰
+╔✩✩ https://t.me/iptvfreekyng ✩✩╗
+    ✰⇘https://t.me/iptvfreekyng⇙✰
 ▮➥ⓅⒶⓃⒺⓁ⇶ http://"""+panell+"""/c/
 ▮➥ⓇⒺⒶⓁ⇶ http://"""+real+"""/c
 ▮➥ⓂⒶⒸ⇶ """+mac+"""
@@ -1550,7 +1550,7 @@ for mag in range(16**6):
 ▮➥ⓘⓟ⇶ """+ip+"""
 ▮➥ⓣⓘⓜⓔⓩⓞⓝⓔ⇶ """+timezon.replace('\/','/')+"""
 ▮➥ⓛⓞⓒⓐⓛ⇶ """+tloca+"""
-     ✰⇘🅖🅡🅞🅤🅟🅔 🅦🅞🅔 ⇙✰""")
+     ✰⇘https://t.me/iptvfreekyng ⇙✰""")
 			            		
 			            	if uzmanc=='stalker':#stalker_portal' in uzmanm:
 			            		#if not fname=="":
@@ -1570,7 +1570,7 @@ for mag in range(16**6):
 ▮➥🅸🅿⇶ """+ip+"""
   """+nickn+"""""")
 			            	imzasif=("""
-✰⇘🅖🅡🅞🅤🅟🅔 🅦🅞🅔 ⇙
+✰⇘https://t.me/iptvfreekyng ⇙
 ▮➥𝘀𝗘𝗿𝗜𝗮𝗟⇶ """+SNENC+"""
 ▮➥𝘀𝗘𝗿𝗜𝗮𝗟𝗰𝗨𝘁⇶ """+SNCUT+"""
 ▮➥𝗱𝗘𝘃𝗜𝗰𝗘𝗶𝗗°𝟭⇶ """+DEVENC+"""
@@ -1611,7 +1611,7 @@ for mag in range(16**6):
     """+nickn+"""
 ▮➥🅤🅛🅚🅔 ⇶              		
 ▮➥ """+kategori+""" """)
-			#🅖🅡🅞🅤🅟🅔 🅦🅞🅔
+			#https://t.me/iptvfreekyng
 			            	if kanalkata =="2":
 			            		imzak=("""
 ▮➥🅥🅞🅓 ⇶   
@@ -1622,11 +1622,11 @@ for mag in range(16**6):
 			            	imza=imza1+imzaa+imza2+imzavpn+imzaip1+imzaip2+imzaip3+imzasif+imzayan+imza3+imzab+imzak+imzas
 			            	#print(imza)
 		            	else:
-		            		imza=("""╔✩✩ 🅖🅡🅞🅤🅟🅔 🅦🅞🅔 ✩✩╗
+		            		imza=("""╔✩✩ https://t.me/iptvfreekyng ✩✩╗
 ▮➥ 𝕻𝖆𝖓𝖊𝖑⇶ http://"""+panel+"""/c/
 ▮➥ 𝕸𝖆𝖈⇶ """+mac+"""
 ▮➥ 𝕰𝖝𝖕.⇶ """+trh+""" 
-    ✰⇘ 🅖🅡🅞🅤🅟🅔 🅦🅞🅔⇙✰  """+nickn+""" """)
+    ✰⇘ https://t.me/iptvfreekyng⇙✰  """+nickn+""" """)
 		            			            	
 		            	yaz(imza+'\n'+'\n')
 		            	print(imza)
